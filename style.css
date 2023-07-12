@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(
+        to bottom right,#666,#668
+    );
+    
+    
+    
+}
+button{
+    cursor: pointer;
+    color: slategrey;
+    border-radius: 20px;
+}
+#val{
+    background-color:darkslategray;
+    color: white;
+   
+    
+}
+#messages{
+    background-color:darkslategray;
+    color: white;
+    
+    
+}
+.main{
+    text-align: center;
+}
+
